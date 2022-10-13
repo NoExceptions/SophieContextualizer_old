@@ -1,0 +1,10 @@
+group 'com.ihm'
+version '1.0-SNAPSHOT'
+
+dependencies {
+
+}
+
+repositories {
+    mavenCentral()
+}
